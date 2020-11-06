@@ -23,3 +23,5 @@ por el Bot.
 El procesamiento del Bot reconoce la palabra adiós para cerrar el 
 
 programa y despedirse. 
+
+Programa basado en emsamblador ARM.
